@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Icon=utilities-terminal
+Type=Application
+Categories=Application;
+Name=Hash it
+Name[zh_CN]=计算Hash
+X-DFM-MenuTypes=SingleFile;
+
+Exec=gtkhash %F
