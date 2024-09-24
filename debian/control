@@ -1,0 +1,14 @@
+Source: gxde-quick-hash
+Section: utils
+Priority: optional
+Maintainer: shenmo <shenmo@spark-app.store>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://gitee.com/GXDE-OS/gxde-quick-hash
+Rules-Requires-Root: no
+
+Package: gxde-quick-hash
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends},dde-file-manager (>= 4.8.17), gtkhash
+Description: GXDE OS quick hash dfm plugin
