@@ -10,5 +10,8 @@ Rules-Requires-Root: no
 Package: gxde-quick-hash
 Architecture: all
 Multi-Arch: foreign
-Depends: ${misc:Depends},dde-file-manager (>= 4.8.17), gtkhash
+Depends: 
+ ${misc:Depends},
+ gxde-file-manager (>= 4.8.17),
+ gtkhash
 Description: GXDE OS quick hash dfm plugin
