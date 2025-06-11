@@ -1,4 +1,4 @@
-gxde-quick-hash (1.0.2) UNRELEASED; urgency=low
+gxde-quick-hash (1.0.2-1) UNRELEASED; urgency=low
 
   * 修改 dde-file-manager 为 gxde-file-manager
 
